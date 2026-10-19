@@ -1,0 +1,12 @@
+{
+  "project": "OrbitDock",
+  "distribution": "selected source demonstration",
+  "original_modules": [
+    "Sources/DockCore/ClockTimeZone.swift",
+    "Sources/DockCore/ClockAppearance.swift",
+    "Sources/DockCore/ClockDetails.swift",
+    "Sources/DockCore/BadgeTracker.swift"
+  ],
+  "commercial_source_included": false,
+  "third_party_package_dependencies": []
+}
